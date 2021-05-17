@@ -83,7 +83,7 @@ GEM
       activesupport
       i18n
     erubi (1.10.0)
-    execjs (2.7.0)
+    execjs (2.8.1)
     ffi (1.15.0)
     font-awesome-sass (5.12.0)
       sassc (>= 1.11)
@@ -124,7 +124,7 @@ GEM
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.5.7)
-    nokogiri (1.11.3)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     ood_appkit (1.1.5)
